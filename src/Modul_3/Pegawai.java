@@ -1,3 +1,5 @@
+package Modul_3;
+
 public class Pegawai {
     String nama;
     int nip;

@@ -1,3 +1,5 @@
+package Modul_3;
+
 public class LocalVariable {
     public void hitungUsia(){
         int usia = 0;

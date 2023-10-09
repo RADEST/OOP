@@ -1,3 +1,5 @@
+package Modul_2;
+
 public class Animal {
     String name;
     int leg;
@@ -6,7 +8,7 @@ public class Animal {
 
     void setName(String newName){
         name = newName;
-        System.out.println("Animal Name : " + name);
+        System.out.println("Modul_2.Animal Name : " + name);
     }
 
     void setLeg(int legAnimal){
@@ -21,6 +23,6 @@ public class Animal {
 
     void setType(String typeAnimal){
         type = typeAnimal;
-        System.out.println("Animal Type : " + type +"\n");
+        System.out.println("Modul_2.Animal Type : " + type +"\n");
     }
 }

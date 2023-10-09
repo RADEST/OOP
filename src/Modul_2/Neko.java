@@ -1,3 +1,5 @@
+package Modul_2;
+
 public class Neko {
     int age;
     String color = "Brown";

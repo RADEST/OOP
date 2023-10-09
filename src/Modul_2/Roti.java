@@ -1,3 +1,5 @@
+package Modul_2;
+
 public class Roti {
 String warna;
 String rasa;
@@ -22,8 +24,8 @@ void hargaJual(double hargaRoti){
 
 void infoRoti(){
     System.out.println(
-            "Warna Roti : " + warna + "\n" +
-            "Rasa Roti : " + rasa + "\n" +
-            "Berat Roti : " + berat + "gr" +"\n" + "Harga Roti : Rp." + harga +"\n");
+            "Warna Modul_2.Roti : " + warna + "\n" +
+            "Rasa Modul_2.Roti : " + rasa + "\n" +
+            "Berat Modul_2.Roti : " + berat + "gr" +"\n" + "Harga Modul_2.Roti : Rp." + harga +"\n");
 }
 }

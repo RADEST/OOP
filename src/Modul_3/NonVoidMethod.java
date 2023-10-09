@@ -1,4 +1,4 @@
-import java.awt.*;
+package Modul_3;
 
 public class NonVoidMethod {
     String nama = "Rafli";

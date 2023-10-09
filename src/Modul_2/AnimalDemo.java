@@ -1,3 +1,5 @@
+package Modul_2;
+
 public class AnimalDemo {
     public static void main(String[] args) {
         Animal tiger = new Animal();

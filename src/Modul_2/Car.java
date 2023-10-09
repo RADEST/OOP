@@ -1,3 +1,5 @@
+package Modul_2;
+
 public class Car {
 int cadence;
 int gear;
@@ -19,6 +21,6 @@ void printInfo(){
     System.out.println(
             "Cadence car : " + cadence + "\n"
             + "Speed car : " + up + "\n"
-            + "Car's gear : " + gear + "\n");
+            + "Modul_2.Car's gear : " + gear + "\n");
 }
 }

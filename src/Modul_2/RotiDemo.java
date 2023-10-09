@@ -1,3 +1,5 @@
+package Modul_2;
+
 public class RotiDemo {
     public static void main(String[] args) {
         Roti roti = new Roti();

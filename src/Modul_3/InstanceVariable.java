@@ -1,3 +1,5 @@
+package Modul_3;
+
 public class InstanceVariable {
     int nilai; //variable global
     int usia = 0;

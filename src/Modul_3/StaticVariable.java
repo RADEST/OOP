@@ -1,3 +1,5 @@
+package Modul_3;
+
 public class StaticVariable {
     public static char akreditasi;
     public static final String jurusan = "Informatika";

@@ -1,3 +1,5 @@
+package Modul_3;
+
 public class VoidMethod {
     int hour, minute, second;
 
