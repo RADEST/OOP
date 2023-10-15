@@ -1,6 +1,6 @@
 package Modul_3;
 
-import Modul_4.DefaultModifier;
+//import Modul_4.DefaultModifier;
 import Modul_4.PublicModifier;
 
 public class modul4hehe {

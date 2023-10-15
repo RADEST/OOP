@@ -1,6 +1,6 @@
 package Modul_4;
 
-public class DefaultModifier {
+class DefaultModifier {
     int a = 1;
     int b = 2;
     int c;
